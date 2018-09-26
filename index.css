@@ -1,0 +1,23 @@
+#main {
+  background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+}
+
+/* .col-md-9 {
+  box-shadow: 8px 8px 6px #ececec
+} */
+
+/* .card {
+  box-shadow: 8px 8px 6px #ececec
+}
+ */
+.card:hover {
+  box-shadow: 8px 8px 5px #777;
+}
+
+.btn:hover{
+  box-shadow: 8px 8px 4px #666;
+}
